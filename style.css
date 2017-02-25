@@ -1,0 +1,27 @@
+.container{
+	     	padding-top: 100px;
+	     	font-size: 16px;
+	     	background-color: #96bede;
+	     }
+	    .form-group{
+	    	/*display: inline;*/
+	    	padding-bottom: 50px;
+	    }
+		.box input{
+			width: 500px;
+			border-radius: 2px;
+			/*border: 2px solid black;*/
+		}
+		.red{
+			border: 2px solid red;
+
+		}
+		.green{
+			border: 2px solid green;
+		}
+		.positive{
+			color: green;
+		}
+		.negative{
+			color: red;
+		}
